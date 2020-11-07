@@ -1,5 +1,5 @@
 # BestOfTheRest
-My first project https://genius-pending.github.io/BestOfTheRest/.
+My first project https://ard847.github.io/BestOfTheRest/.
 
 Welcome to Best Of The Rest a brand new website which is going to change the way the UK eats out 
 
